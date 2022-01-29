@@ -1,0 +1,281 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="港澳台",1.ARIRANG阿里郎频道
+http://206.119.163.4/apitv/gtlive.php?id=15810&cid=15973
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",2.CATCHPLAY Beyond
+http://206.119.163.4/apitv/gtlive.php?id=14401&cid=14564
+#EXTINF:-1 tvg-id="7206" tvg-name="CatchPlay电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png" group-title="港澳台",3.CATCHPLAY电影台-HD
+http://206.119.163.4/apitv/gtlive.php?id=14183&cid=14343
+#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="港澳台",4.CNA亚洲新闻台
+http://206.119.163.4/apitv/gtlive.php?id=14064&cid=14224
+#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="港澳台",5.CNBC
+http://206.119.163.4/apitv/gtlive.php?id=13693&cid=13846
+#EXTINF:-1 tvg-id="7179" tvg-name="cnex" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cnex.png" group-title="港澳台",6.CNEX DOC CHANNEL
+http://206.119.163.4/apitv/gtlive.php?id=13694&cid=13847
+#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="港澳台",7.CNN国际新闻台
+http://206.119.163.4/apitv/gtlive.php?id=13643&cid=13795
+#EXTINF:-1 tvg-id="7106" tvg-name="CNNHeadlineNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNN.png" group-title="港澳台",8.CNN头条新闻台
+http://206.119.163.4/apitv/gtlive.php?id=13644&cid=13796
+#EXTINF:-1 tvg-id="673" tvg-name="CN卡通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="港澳台",9.CN卡通频道
+http://206.119.163.4/apitv/gtlive.php?id=13645&cid=13797
+#EXTINF:-1 tvg-id="871" tvg-name="cinemaworld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="港澳台",10.CinemaWorld
+http://206.119.163.4/apitv/gtlive.php?id=14061&cid=14221
+#EXTINF:-1 tvg-id="6186" tvg-name="达文西频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/davinci.png" group-title="港澳台",11.Davinci 达文西教学台(HD)
+http://206.119.163.4/apitv/gtlive.php?id=13625&cid=13777
+#EXTINF:-1 tvg-id="7186" tvg-name="ELTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eltv.png" group-title="港澳台",12.ELTV生活英语台
+http://206.119.163.4/apitv/gtlive.php?id=13983&cid=14136
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",13.FUN影音综合台
+http://206.119.163.4/apitv/gtlive.php?id=12450&cid=12445
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",14.FUN流行音乐台
+http://206.119.163.4/apitv/gtlive.php?id=11431&cid=11430
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",15.FUN精选电影院
+http://206.119.163.4/apitv/gtlive.php?id=12451&cid=12444
+#EXTINF:-1 tvg-id="7151" tvg-name="FashionOne" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fashionone.png" group-title="港澳台",16.Fashion one时尚娱乐台(HD)
+http://206.119.163.4/apitv/gtlive.php?id=13687&cid=13840
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",17.GINX Esports TV
+http://206.119.163.4/apitv/gtlive.php?id=14397&cid=14560
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",18.GOOD TV一台
+http://206.119.163.4/apitv/gtlive.php?id=13696&cid=13849
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",19.GOOD TV二台
+http://206.119.163.4/apitv/gtlive.php?id=13711&cid=13864
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",20.HITS频道
+http://206.119.163.4/apitv/gtlive.php?id=14000&cid=14153
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="港澳台",21.History 2
+http://206.119.163.4/apitv/gtlive.php?id=13640&cid=13792
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="港澳台",22.History
+http://206.119.163.4/apitv/gtlive.php?id=14165&cid=14325
+#EXTINF:-1 tvg-id="7187" tvg-name="靖天国际" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天国际.png" group-title="港澳台",23.KLT-靖天国际台
+http://206.119.163.4/apitv/gtlive.php?id=18953&cid=19116
+#EXTINF:-1 tvg-id="7193" tvg-name="LUXETV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/luxetv.png" group-title="港澳台",24.LUXE TV Channel
+http://206.119.163.4/apitv/gtlive.php?id=14398&cid=14561
+#EXTINF:-1 tvg-id="509" tvg-name="Lifetime" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="港澳台",25.Lifetime
+http://206.119.163.4/apitv/gtlive.php?id=13664&cid=13817
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="港澳台",26.LiveABC互动英语频道
+http://206.119.163.4/apitv/gtlive.php?id=15808&cid=15971
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",27.Love Nature
+http://206.119.163.4/apitv/gtlive.php?id=14085&cid=14245
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",28.MTV Live HD
+http://206.119.163.4/apitv/gtlive.php?id=14166&cid=14326
+#EXTINF:-1 tvg-id="468" tvg-name="MEZZOLIVEHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mezzo.png" group-title="港澳台",29.Mezzo Live HD
+http://206.119.163.4/apitv/gtlive.php?id=13712&cid=13865
+#EXTINF:-1 tvg-id="7207" tvg-name="MyCinemaEurope" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MyCinemaEurope.png" group-title="港澳台",30.My Cinema Europe HD 我的
+http://206.119.163.4/apitv/gtlive.php?id=14399&cid=14562
+#EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="港澳台",31.NICK Jr
+http://206.119.163.4/apitv/gtlive.php?id=14167&cid=14327
+#EXTINF:-1 tvg-id="6150" tvg-name="靖天欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天欢乐.png" group-title="港澳台",32.Nice TV 靖天欢乐台
+http://206.119.163.4/apitv/gtlive.php?id=18954&cid=19117
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",33.Pet Club TV
+http://206.119.163.4/apitv/gtlive.php?id=15213&cid=15376
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",34.ROCK Extreme
+http://206.119.163.4/apitv/gtlive.php?id=14084&cid=14244
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",35.SBL超级篮球联赛
+http://206.119.163.4/apitv/gtlive.php?id=11450&cid=11453
+#EXTINF:-1 tvg-id="6111" tvg-name="SBN全球财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SBN.png" group-title="港澳台",36.SBN全球财经台
+http://206.119.163.4/apitv/gtlive.php?id=13985&cid=14138
+#EXTINF:-1 tvg-id="7155" tvg-name="SMART知识频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Smart知识台.png" group-title="港澳台",37.Smart知识台
+http://206.119.163.4/apitv/gtlive.php?id=14050&cid=14210
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",38.Smithsonian Channel
+http://206.119.163.4/apitv/gtlive.php?id=14184&cid=14344
+#EXTINF:-1 tvg-id="731" tvg-name="TV5Monde" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tv5monde.png" group-title="港澳台",39.TV5MONDE STYLE HD 生活时尚
+http://206.119.163.4/apitv/gtlive.php?id=14400&cid=14563
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港澳台",40.TVBS
+http://206.119.163.4/apitv/gtlive.php?id=15131&cid=15294
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",41.TVBS新闻台
+http://206.119.163.4/apitv/gtlive.php?id=15132&cid=15295
+#EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="港澳台",42.TVBS欢乐台
+http://206.119.163.4/apitv/gtlive.php?id=15133&cid=15296
+#EXTINF:-1 tvg-id="7138" tvg-name="TVBS精采台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS精采.png" group-title="港澳台",43.TVBS精采台
+http://206.119.163.4/apitv/gtlive.php?id=15134&cid=15297
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",44.TechStorm
+http://206.119.163.4/apitv/gtlive.php?id=15256&cid=15419
+#EXTINF:-1 tvg-id="988" tvg-name="TraceSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png" group-title="港澳台",45.Trace Sport Stars
+http://206.119.163.4/apitv/gtlive.php?id=13704&cid=13857
+#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="港澳台",46.amc 最爱电影-HD
+http://206.119.163.4/apitv/gtlive.php?id=14133&cid=14293
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",47.ci
+http://206.119.163.4/apitv/gtlive.php?id=14164&cid=14324
+#EXTINF:-1 tvg-id="7173" tvg-name="iFun1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ifun1.png" group-title="港澳台",48.i-Fun动漫台
+http://206.119.163.4/apitv/gtlive.php?id=13674&cid=13827
+#EXTINF:-1 tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="港澳台",49.momo亲子台
+http://206.119.163.4/apitv/gtlive.php?id=13661&cid=13813
+#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="港澳台",50.三立iNEWS
+http://206.119.163.4/apitv/gtlive.php?id=11419&cid=11420
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港澳台",51.三立新闻HD
+http://206.119.163.4/apitv/gtlive.php?id=11422&cid=11440
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",52.中天全民最大党
+http://206.119.163.4/apitv/gtlive.php?id=14192&cid=14352
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",53.中天新闻-HD
+http://206.119.163.4/apitv/gtlive.php?id=14143&cid=14303
+#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="港澳台",54.中天综合台
+http://206.119.163.4/apitv/gtlive.php?id=14187&cid=14347
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",55.中天美食旅游
+http://206.119.163.4/apitv/gtlive.php?id=14193&cid=14353
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港澳台",56.中视新闻台
+http://206.119.163.4/apitv/gtlive.php?id=13682&cid=13835
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",57.中视无线台(HD)
+http://206.119.163.4/apitv/gtlive.php?id=13681&cid=13834
+#EXTINF:-1 tvg-id="7172" tvg-name="中视经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视经典.png" group-title="港澳台",58.中视经典台
+http://206.119.163.4/apitv/gtlive.php?id=18949&cid=19112
+#EXTINF:-1 tvg-id="7136" tvg-name="中视菁采台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视菁采.png" group-title="港澳台",59.中视菁采台
+http://206.119.163.4/apitv/gtlive.php?id=18948&cid=19111
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",60.亚洲人气戏剧台
+http://206.119.163.4/apitv/gtlive.php?id=11429&cid=11441
+#EXTINF:-1 tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="港澳台",61.亚洲旅游台
+http://206.119.163.4/apitv/gtlive.php?id=11462&cid=11462
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",62.亚洲院线电影台
+http://206.119.163.4/apitv/gtlive.php?id=11426&cid=11426
+#EXTINF:-1 tvg-id="6029" tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="港澳台",63.人间卫视
+http://206.119.163.4/apitv/gtlive.php?id=13673&cid=13826
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",64.八大精彩台
+http://206.119.163.4/apitv/gtlive.php?id=14213&cid=14373
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",65.八大综艺台
+http://206.119.163.4/apitv/gtlive.php?id=13660&cid=13812
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",66.公视戏剧
+http://206.119.163.4/apitv/gtlive.php?id=14159&cid=14319
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",67.半岛电视台
+http://206.119.163.4/apitv/gtlive.php?id=13678&cid=13831
+#EXTINF:-1 tvg-id="6176" tvg-name="博斯无限台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_unlimited.png" group-title="港澳台",68.博斯无限台
+http://206.119.163.4/apitv/gtlive.php?id=11452&cid=11461
+#EXTINF:-1 tvg-id="6175" tvg-name="博斯网球台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" group-title="港澳台",69.博斯网球台
+http://206.119.163.4/apitv/gtlive.php?id=11453&cid=11459
+#EXTINF:-1 tvg-id="6180" tvg-name="博斯运动一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="港澳台",70.博斯运动一台-HD
+http://206.119.163.4/apitv/gtlive.php?id=14152&cid=14312
+#EXTINF:-1 tvg-id="6174" tvg-name="博斯运动二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="港澳台",71.博斯运动二台-HD
+http://206.119.163.4/apitv/gtlive.php?id=14126&cid=14286
+#EXTINF:-1 tvg-id="6178" tvg-name="博斯高球2台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-golfplus.png" group-title="港澳台",72.博斯高球二台
+http://206.119.163.4/apitv/gtlive.php?id=11456&cid=11456
+#EXTINF:-1 tvg-id="6177" tvg-name="博斯高球1台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports-golfch.png" group-title="港澳台",73.博斯高球台
+http://206.119.163.4/apitv/gtlive.php?id=11457&cid=11455
+#EXTINF:-1 tvg-id="6179" tvg-name="博斯魅力网" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" group-title="港澳台",74.博斯魅力台
+http://206.119.163.4/apitv/gtlive.php?id=11458&cid=11460
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",75.古典音乐台
+http://206.119.163.4/apitv/gtlive.php?id=13666&cid=13819
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港澳台",76.台视新闻台
+http://206.119.163.4/apitv/gtlive.php?id=18946&cid=19109
+#EXTINF:-1 tvg-id="6144" tvg-name="台视财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视财经.png" group-title="港澳台",77.台视财经台
+http://206.119.163.4/apitv/gtlive.php?id=18947&cid=19110
+#EXTINF:-1 tvg-id="7229" tvg-name="唯心电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="港澳台",78.唯心电视台
+http://206.119.163.4/apitv/gtlive.php?id=13977&cid=14130
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",79.国会频道1台
+http://206.119.163.4/apitv/gtlive.php?id=14018&cid=14171
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",80.国会频道2台
+http://206.119.163.4/apitv/gtlive.php?id=14021&cid=14174
+#EXTINF:-1 tvg-id="6142" tvg-name="大爱二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" group-title="港澳台",81.大爱二台
+http://206.119.163.4/apitv/gtlive.php?id=13698&cid=13851
+#EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",82.大爱电视台
+http://206.119.163.4/apitv/gtlive.php?id=13642&cid=13794
+#EXTINF:-1 tvg-id="6035" tvg-name="客家电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HakkaTV.png" group-title="港澳台",83.客家电视台
+http://206.119.163.4/apitv/gtlive.php?id=14011&cid=14164
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",84.寰宇新闻台
+http://206.119.163.4/apitv/gtlive.php?id=14170&cid=14330
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",85.寰宇新闻台湾台
+http://206.119.163.4/apitv/gtlive.php?id=14172&cid=14332
+#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="港澳台",86.尼克儿童频道
+http://206.119.163.4/apitv/gtlive.php?id=14081&cid=14241
+#EXTINF:-1 tvg-id="6138" tvg-name="幸福空间居家台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/gstv.png" group-title="港澳台",87.幸福空间居家台
+http://206.119.163.4/apitv/gtlive.php?id=14199&cid=14359
+#EXTINF:-1 tvg-id="7184" tvg-name="影迷数位纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/影迷纪实.png" group-title="港澳台",88.影迷数位纪实台
+http://206.119.163.4/apitv/gtlive.php?id=14132&cid=14292
+#EXTINF:-1 tvg-id="7185" tvg-name="影迷数位电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/影迷电影.png" group-title="港澳台",89.影迷数位电影台
+http://206.119.163.4/apitv/gtlive.php?id=13695&cid=13848
+#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="港澳台",90.德国之声电视台
+http://206.119.163.4/apitv/gtlive.php?id=14163&cid=14323
+#EXTINF:-1 tvg-id="7139" tvg-name="爱尔达娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" group-title="港澳台",91.爱尔达娱乐台
+http://206.119.163.4/apitv/gtlive.php?id=13701&cid=13854
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",92.新唐人亚太台
+http://206.119.163.4/apitv/gtlive.php?id=13984&cid=14137
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",93.时代影像台
+http://206.119.163.4/apitv/gtlive.php?id=13183&cid=13334
+#EXTINF:-1 tvg-id="7182" tvg-name="智林体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="港澳台",94.智林体育台
+http://206.119.163.4/apitv/gtlive.php?id=13706&cid=13859
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",95.东森新闻台
+http://206.119.163.4/apitv/gtlive.php?id=13635&cid=13787
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",96.东森财经新闻台
+http://206.119.163.4/apitv/gtlive.php?id=13636&cid=13788
+#EXTINF:-1 tvg-id="6173" tvg-name="梅迪奇艺术" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/medici-arts.png" group-title="港澳台",97.梅迪奇艺术频道
+http://206.119.163.4/apitv/gtlive.php?id=13988&cid=14141
+#EXTINF:-1 tvg-id="7134" tvg-name="民视台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="港澳台",98.民视台湾台
+http://206.119.163.4/apitv/gtlive.php?id=13671&cid=13824
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",99.民视戏剧台
+http://206.119.163.4/apitv/gtlive.php?id=13651&cid=13803
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",100.民视新闻台-HD
+http://206.119.163.4/apitv/gtlive.php?id=14119&cid=14279
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",101.民视旅游台
+http://206.119.163.4/apitv/gtlive.php?id=13655&cid=13807
+#EXTINF:-1 tvg-id="6024" tvg-name="民视无线台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png" group-title="港澳台",102.民视无线台-HD
+http://206.119.163.4/apitv/gtlive.php?id=14124&cid=14284
+#EXTINF:-1 tvg-id="7133" tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="港澳台",103.民视第一台
+http://206.119.163.4/apitv/gtlive.php?id=13672&cid=13825
+#EXTINF:-1 tvg-id="7145" tvg-name="民视综艺台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="港澳台",104.民视综艺台
+http://206.119.163.4/apitv/gtlive.php?id=13653&cid=13805
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",105.热播华语戏剧台
+http://206.119.163.4/apitv/gtlive.php?id=11427&cid=11427
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",106.空中英语教学台
+http://206.119.163.4/apitv/gtlive.php?id=13648&cid=13800
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",107.美国之音-VOA
+http://206.119.163.4/apitv/gtlive.php?id=13632&cid=13784
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",108.台湾电视台
+http://206.119.163.4/apitv/gtlive.php?id=18945&cid=19108
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",109.华藏电视台
+http://206.119.163.4/apitv/gtlive.php?id=13979&cid=14132
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",110.华视新闻资讯台
+http://206.119.163.4/apitv/gtlive.php?id=13677&cid=13830
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",111.华视无线台-HD
+http://206.119.163.4/apitv/gtlive.php?id=14128&cid=14288
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",112.西洋强档电影台
+http://206.119.163.4/apitv/gtlive.php?id=11425&cid=11425
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",113.猪哥亮歌厅秀
+http://206.119.163.4/apitv/gtlive.php?id=13662&cid=13814
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",114.车迷TV
+http://206.119.163.4/apitv/gtlive.php?id=14190&cid=14350
+#EXTINF:-1 tvg-id="7180" tvg-name="采昌影剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/采昌影剧.png" group-title="港澳台",115.采昌影剧台
+http://206.119.163.4/apitv/gtlive.php?id=14161&cid=14321
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",116.金光布袋戏
+http://206.119.163.4/apitv/gtlive.php?id=14080&cid=14240
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",117.随身娱乐综艺台
+http://206.119.163.4/apitv/gtlive.php?id=11430&cid=11429
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",118.电影原声台CMusic
+http://206.119.163.4/apitv/gtlive.php?id=14188&cid=14348
+#EXTINF:-1 tvg-id="6192" tvg-name="靖天卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天卡通.png" group-title="港澳台",119.靖天卡通台
+http://206.119.163.4/apitv/gtlive.php?id=18951&cid=19114
+#EXTINF:-1 tvg-id="7159" tvg-name="靖天戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天戏剧.png" group-title="港澳台",120.靖天戏剧台
+http://206.119.163.4/apitv/gtlive.php?id=18952&cid=19115
+#EXTINF:-1 tvg-id="6157" tvg-name="靖天日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天日本.png" group-title="港澳台",121.靖天日本台
+http://206.119.163.4/apitv/gtlive.php?id=18950&cid=19113
+#EXTINF:-1 tvg-id="6116" tvg-name="靖天映画" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天映画.png" group-title="港澳台",122.靖天映画台
+http://206.119.163.4/apitv/gtlive.php?id=13692&cid=13845
+#EXTINF:-1 tvg-id="6098" tvg-name="靖天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天综合.png" group-title="港澳台",123.靖天综合台
+http://206.119.163.4/apitv/gtlive.php?id=18956&cid=19119
+#EXTINF:-1 tvg-id="6151" tvg-name="靖天育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天育乐.png" group-title="港澳台",124.靖天育乐台
+http://206.119.163.4/apitv/gtlive.php?id=18958&cid=19121
+#EXTINF:-1 tvg-id="6099" tvg-name="靖天资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天资讯.png" group-title="港澳台",125.靖天资讯台
+http://206.119.163.4/apitv/gtlive.php?id=18957&cid=19120
+#EXTINF:-1 tvg-id="7164" tvg-name="靖天电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天电影.png" group-title="港澳台",126.靖天电影台
+http://206.119.163.4/apitv/gtlive.php?id=14162&cid=14322
+#EXTINF:-1 tvg-id="6191" tvg-name="靖洋卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖洋卡通.png" group-title="港澳台",127.靖洋卡通台Nice Bingo
+http://206.119.163.4/apitv/gtlive.php?id=18955&cid=19118
+#EXTINF:-1 tvg-id="6101" tvg-name="靖洋戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖洋戏剧.png" group-title="港澳台",128.靖洋戏剧台
+http://206.119.163.4/apitv/gtlive.php?id=13690&cid=13843
+#EXTINF:-1 tvg-id="6107" tvg-name="非凡商业台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueUSTVHDUSTVHD.png" group-title="港澳台",129.非凡商业HD
+http://206.119.163.4/apitv/gtlive.php?id=11328&cid=11346
+#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="港澳台",130.非凡新闻HD
+http://206.119.163.4/apitv/gtlive.php?id=11327&cid=11345
+#EXTINF:-1 tvg-id="6161" tvg-name="韩国娱乐台KMTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KMTV.png" group-title="港澳台",131.韩国娱乐台KMTV
+http://206.119.163.4/apitv/gtlive.php?id=13685&cid=13838
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",132.麦卡贝网路电视HD
+http://206.119.163.4/apitv/gtlive.php?id=11423&cid=11422
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",133.麦卡贝运动2台
+http://206.119.163.4/apitv/gtlive.php?id=14062&cid=14222
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",134.麦卡贝运动3台
+http://206.119.163.4/apitv/gtlive.php?id=18794&cid=18957
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",135.麦卡贝运动频道
+http://206.119.163.4/apitv/gtlive.php?id=13981&cid=14134
+#EXTINF:-1 tvg-id="7126" tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png" group-title="港澳台",136.龙华偶像台
+http://206.119.163.4/apitv/gtlive.php?id=11459&cid=11463
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",137.龙华卡通台
+http://206.119.163.4/apitv/gtlive.php?id=13188&cid=13338
+#EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png" group-title="港澳台",138.龙华戏剧台-HD
+http://206.119.163.4/apitv/gtlive.php?id=14147&cid=14307
+#EXTINF:-1 tvg-id="7158" tvg-name="龙华日韩台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" group-title="港澳台",139.龙华日韩台
+http://206.119.163.4/apitv/gtlive.php?id=11460&cid=11464
+#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="港澳台",140.龙华电影台
+http://206.119.163.4/apitv/gtlive.php?id=13187&cid=13339
