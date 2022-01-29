@@ -101,6 +101,25 @@ http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index
 http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="电影",CCTV-8
 http://223.110.251.219:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/.m3u8
+#EXTINF:-1 tvg-id="7206" tvg-name="CatchPlay电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png" group-title="电影",3.CATCHPLAY电影台-HD
+http://206.119.163.4/apitv/gtlive.php?id=14183&cid=14343
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",Thrill
+http://iptv.tvfix.org/hls/thrill.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",15.FUN精选电影院
+http://206.119.163.4/apitv/gtlive.php?id=12451&cid=12444
+#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="电影",46.amc 最爱电影-HD
+http://206.119.163.4/apitv/gtlive.php?id=14133&cid=14293
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",62.亚洲院线电影台
+http://206.119.163.4/apitv/gtlive.php?id=11426&cid=11426
+#EXTINF:-1 tvg-id="7185" tvg-name="影迷数位电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/影迷电影.png" group-title="电影",89.影迷数位电影台
+http://206.119.163.4/apitv/gtlive.php?id=13695&cid=13848
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",112.西洋强档电影台
+http://206.119.163.4/apitv/gtlive.php?id=11425&cid=11425
+#EXTINF:-1 tvg-id="7164" tvg-name="靖天电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天电影.png" group-title="电影",126.靖天电影台
+http://206.119.163.4/apitv/gtlive.php?id=14162&cid=14322
+#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="港澳台",140.龙华电影台
+http://206.119.163.4/apitv/gtlive.php?id=13187&cid=13339
+
 
 #EXTINF:-1 tvg-id="100" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海",东方卫视
 http://223.110.251.219:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/1.m3u8
@@ -239,3 +258,11 @@ https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="境外",有线新闻台
 https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="境外",5.CNBC
+http://206.119.163.4/apitv/gtlive.php?id=13693&cid=13846
+#EXTINF:-1 tvg-id="7179" tvg-name="cnex" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cnex.png" group-title="境外",6.CNEX DOC CHANNEL
+http://206.119.163.4/apitv/gtlive.php?id=13694&cid=13847
+#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="境外",7.CNN国际新闻台
+http://206.119.163.4/apitv/gtlive.php?id=13643&cid=13795
+#EXTINF:-1 tvg-id="7106" tvg-name="CNNHeadlineNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNN.png" group-title="境外",8.CNN头条新闻台
+http://206.119.163.4/apitv/gtlive.php?id=13644&cid=13796
