@@ -39,8 +39,8 @@ http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中国",CCTV-17
 http://iptv.tvfix.org/hls/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="央视4K高清" tvg-name="央视4K高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国",央视4K高清
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 tvg-id="央视4超K高清" tvg-name="央视4K超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8k.png" group-title="中国",央视超4K高清
+http://121.18.168.210/livetestcdn.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 tvg-id="央视4超K高清" tvg-name="央视4K超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国",央视超4K高清
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="中国",CGTN-国际电视台
 http://iptv.tvfix.org/hls/cgtnhd.m3u8
