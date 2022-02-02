@@ -79,10 +79,7 @@ http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesst
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="纪实",生活时尚
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000141&playtoken=ABCDEFGH&auth=no
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",都市剧场
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000142&playtoken=ABCDEFGH&auth=no
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",都市剧场
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000598&playtoken=ABCDEFGH&auth=no
+
 #EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影",CHC高清电影
 http://iptv.tvfix.org/hls/chchd.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影",CHC家庭影院
@@ -117,7 +114,7 @@ http://206.119.163.4/apitv/gtlive.php?id=13695&cid=13848
 http://206.119.163.4/apitv/gtlive.php?id=11425&cid=11425
 #EXTINF:-1 tvg-id="7164" tvg-name="靖天电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天电影.png" group-title="电影",126.靖天电影台
 http://206.119.163.4/apitv/gtlive.php?id=14162&cid=14322
-#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="港澳台",140.龙华电影台
+#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="电影",140.龙华电影台
 http://206.119.163.4/apitv/gtlive.php?id=13187&cid=13339
 
 
