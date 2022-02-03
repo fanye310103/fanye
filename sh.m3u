@@ -299,73 +299,73 @@ http://206.119.163.4/apitv/gtlive.php?id=13693&cid=13846
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="境外",7.CNN国际新闻台
 http://encodercdn1.frontline.ca/encoder184/output/CNN_720p/playlist.m3u8
 
-#EXTINF:-1,纯享4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1,4K修复
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4K修复
 http://223.110.235.21:80/wh7f454c46tw2065242376_643205074/ott.js.chinamobile.com/TVOD/3/224/3221228141/index.m3u8
-#EXTINF:-1,LOVE4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",LOVE4K
 http://177.20.208.58:8000/play/a03r/index.m3u8
-#EXTINF:-1,FashionTV
+#EXTINF:-1 tvg-id="701" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="4K",FashionTV
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1,4KCESHI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4KCESHI
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
-#EXTINF:-1,广东珠江4K
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="4K",广东珠江4K
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1,SiTV欢笑剧场 12M2160
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",iTV欢笑剧场 12M2160
 http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
-#EXTINF:-1,纯享4K 16M2160
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",纯享4K 16M2160
 http://183.207.248.110/ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
-#EXTINF:-1,纯享4K 21M2160HDR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4k",纯享4K 21M2160HDR
 http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1,4K修复 7M2160HEVC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4K修复 7M2160HEVC
 http://223.110.236.19/ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1,未知4K 4M2160
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",未知4K 4M2160
 http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
-#EXTINF:-1,未知4K 2M2160
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K,未知4K 2M2160
 http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
-#EXTINF:-1,MTV LIVE HD
+#EXTINF:-1 tvg-id="6114" tvg-name="MTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mtvlivehd.png" group-title="音乐",MTV LIVE HD
 http://livetv2021.site:8080/9897876765/6576567/6646
-#EXTINF:-1,HD音樂頻道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",HD音乐频道
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1,otpaha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",otpaha
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
-#EXTINF:-1,HONOE音樂
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",HONOE音乐
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
-#EXTINF:-1,V2BEAT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",V2BEAT
 http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1,Sexy K-Pop
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",Sexy K-Pop
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-#EXTINF:-1,Sexy K-Pop
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",Sexy K-Pop
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:-1,DJT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",DJT
 https://srv1.adriatelekom.com/DJTelevision/index.m3u8
-#EXTINF:-1,AdriaMusic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",AdriaMusic
 https://srv1.adriatelekom.com/AdriaMusicTV/mono.m3u8
-#EXTINF:-1,M2O音乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",M2O音乐台
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1,MTV Yo!
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:-1,MTV Biggest Pop
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1,MTV Block Party
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",MTV Block Party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:-1,MTV Spankin\' New
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",MTV Spankin\' New
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-#EXTINF:-1,MTV WMA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",MTV WMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:-1,CMT Equal Play
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",CMT Equal Play
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,斗鱼5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",斗鱼5
 http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
-#EXTINF:-1,斗鱼6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",斗鱼6
 http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-#EXTINF:-1,斗鱼电影4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",斗鱼电影4
 http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
-#EXTINF:-1,斗鱼16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",斗鱼16
 http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
-#EXTINF:-1,斗鱼17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",斗鱼17
 http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
-#EXTINF:-1,斗鱼18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",斗鱼18
 http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
-#EXTINF:-1,斗鱼29
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",斗鱼29
 http://dyscdnali1.douyucdn.cn/live/7537296rTdKDixQ0.flv?uuid=
