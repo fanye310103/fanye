@@ -70,25 +70,19 @@ http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesst
 
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="纪实",金鹰纪实
 http://39.130.202.81:6610/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qiusuo.png" group-title="纪实",求索纪录
+#EXTINF:-1 tvg-id="" tvg-name="求索纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qiusuo.png" group-title="纪实",求索纪录
 http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qiusuo.png" group-title="纪实",求索科学
+#EXTINF:-1 tvg-id="" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qiusuo.png" group-title="纪实",求索科学
 http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qiusuo.png" group-title="纪实",求索生活
+#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qiusuo.png" group-title="纪实",求索生活
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qiusuo.png" group-title="纪实“,求索动物
+#EXTINF:-1 tvg-id="" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qiusuo.png" group-title="纪实",求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
-
+#EXTINF:-1 tvg-id="6601" tvg-name="DOXTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOXTV.png" group-title="纪实",DOXTV
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000126&playtoken=ABCDEFGH&auth=no
 
 #EXTINF:-1 tvg-id="2020" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方卫视",重庆卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-id="6601" tvg-name="DOXTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOXTV.png" group-title="纪实",DOXTV
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000126&playtoken=ABCDEFGH&auth=no
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="纪实",中华美食
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000129&playtoken=ABCDEFGH&auth=no
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="纪实",生活时尚
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000141&playtoken=ABCDEFGH&auth=no
-
 
 #EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影",CHC高清电影
 http://iptv.tvfix.org/hls/chchd.m3u8
@@ -106,25 +100,8 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
 http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 tvg-name="北京IPTV淘剧场" tvg-logo="https://www.hualigs.cn/image/6153d99a454ef.jpg" group-title="电影",北京IPTV淘剧场
 http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="电影",CCTV-8
-http://223.110.251.219:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/.m3u8
-#EXTINF:-1 tvg-id="7206" tvg-name="CatchPlay电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png" group-title="电影",3.CATCHPLAY电影台-HD
-http://206.119.163.4/apitv/gtlive.php?id=14183&cid=14343
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",Thrill
-http://iptv.tvfix.org/hls/thrill.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",15.FUN精选电影院
-http://206.119.163.4/apitv/gtlive.php?id=12451&cid=12444
-#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="电影",46.amc 最爱电影-HD
-http://206.119.163.4/apitv/gtlive.php?id=14133&cid=14293
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",62.亚洲院线电影台
-http://206.119.163.4/apitv/gtlive.php?id=11426&cid=11426
-#EXTINF:-1 tvg-id="7185" tvg-name="影迷数位电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/影迷电影.png" group-title="电影",89.影迷数位电影台
-http://206.119.163.4/apitv/gtlive.php?id=13695&cid=13848
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",112.西洋强档电影台
-http://206.119.163.4/apitv/gtlive.php?id=11425&cid=11425
-#EXTINF:-1 tvg-id="7164" tvg-name="靖天电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天电影.png" group-title="电影",126.靖天电影台
-http://206.119.163.4/apitv/gtlive.php?id=14162&cid=14322
-
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="电影",CCTV-6
+http://223.110.251.219:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/.m3u8
 
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电影",卫视电影台
 http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
@@ -143,7 +120,28 @@ http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 #EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="电影",FOXmovies
 http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="电影",FOX频道
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="" group-title="电影",凤凰卫视电影台
+http://v.mp.haue.edu.cn/hls/fhdy.m3u8
 http://211.23.114.106:8561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8
+
+#EXTINF:-1 tvg-id="7206" tvg-name="CatchPlay电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png" group-title="电影",3.CATCHPLAY电影台-HD
+http://206.119.163.4/apitv/gtlive.php?id=14183&cid=14343
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",Thrill
+http://iptv.tvfix.org/hls/thrill.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",15.FUN精选电影院
+http://206.119.163.4/apitv/gtlive.php?id=12451&cid=12444
+#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="电影",46.amc 最爱电影-HD
+http://206.119.163.4/apitv/gtlive.php?id=14133&cid=14293
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",62.亚洲院线电影台
+http://206.119.163.4/apitv/gtlive.php?id=11426&cid=11426
+#EXTINF:-1 tvg-id="7185" tvg-name="影迷数位电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/影迷电影.png" group-title="电影",89.影迷数位电影台
+http://206.119.163.4/apitv/gtlive.php?id=13695&cid=13848
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",112.西洋强档电影台
+http://206.119.163.4/apitv/gtlive.php?id=11425&cid=11425
+#EXTINF:-1 tvg-id="7164" tvg-name="靖天电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天电影.png" group-title="电影",126.靖天电影台
+http://206.119.163.4/apitv/gtlive.php?id=14162&cid=14322
+
+
 #EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="台湾",纬来育乐
 http://211.23.114.106:8562/http/116.50.42.19:8081/hls/68/810/ch30.m3u8
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="台湾",纬来体育
@@ -195,9 +193,7 @@ http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/m
 http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 
 
-、
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="" group-title="电影",凤凰卫视电影台
-http://v.mp.haue.edu.cn/hls/fhdy.m3u8
+
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台(第1声道繁体)
 http://iptv.tvfix.org/hls/jade.m3u8
