@@ -132,7 +132,10 @@ http://v.mp.haue.edu.cn/hls/fhdy.m3u8
 http://39.136.48.23:8089/PLTV/88888888/224/3221225844/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="" group-title="电影",Hot欧美影院
 http://39.136.48.23:8089/PLTV/88888888/224/3221226345/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="" group-title="电影",北京影视 HD
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="" group-title="电影",DOX映画HD
+http://117.12.94.10:4022/udp/225.1.1.238:5002
 #EXTINF:-1 tvg-id="7206" tvg-name="CatchPlay电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png" group-title="电影",3.CATCHPLAY电影台-HD
 http://206.119.163.4/apitv/gtlive.php?id=14183&cid=14343
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",Thrill
@@ -185,8 +188,8 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jspdhd/4000000/mnf.m3u8
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海",上视外语ICS频道
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场4K
-http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1977" tvg-name="上海都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.png" group-title="上海",上海都市
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",动漫秀场
@@ -203,21 +206,14 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育
 http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1987" tvg-name="金色频道HD" tvg-logo="" group-title="上海",金色频道HD
+http://117.12.94.10:4022/udp/225.1.1.236:5002
+#EXTINF:-1 tvg-id="1987" tvg-name="法制频道HD" tvg-logo="" group-title="上海",法治天地HD
+http://117.12.94.10:4022/udp/225.1.1.237:5002
+#EXTINF:-1 tvg-id="1987" tvg-name="七彩戏剧" tvg-logo="" group-title="上海",七彩戏剧
+http://117.12.94.10:4022/udp/225.1.1.86:5002
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",百事通体育1
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba1/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",百事通体育2
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba2/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",百事通体育3
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba3/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",百事通体育4
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba4/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",百事通体育5
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba5/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",百事通体育6
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba6/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",百事通体育7
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba7/4000000/mnf.m3u8
+
 
 
 
