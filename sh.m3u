@@ -66,6 +66,9 @@ http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesst
 
 
 
+#EXTINF:-1 tvg-id="100" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+http://c3drm.cdn.hunancatv.com:80/live/HuNanWeiShi.m3u8?token=dceddadfe6b764329e38f4b95002e54d&auth_key=1638430969-f93f0f4984bc4650ba01ed4f4783eb2d-00DB55E074BD-7f7c1e7e4a10554f6e500904b49e74fe#http://c3drm.cdn.hunancatv.com:80/live/HuNanWeiShi.m3u8?token=dceddadfe6b764329e38f4b95002e54d&auth_key=1638431014-948b17c23a4648f6b66ef57a790b533f-00DB55E074BD-fd3ce714e9403342f8df42e13acbdaee%23http://111.63.77.77:80/gitv_live/G_HUNAN-MD/G_HUNAN-MD.m3u8%23http://117.148.179.172:80/PLTV/88888888/224/3221231729/index.m3u8%23http://180.97.123.180/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel25/index.m3u8%23http://103.45.180.232:80/gudou5.php?id=hunanHD_7000%23http://111.40.196.9/PLTV/88888888/224/3221225521/index.m3u8%23http://111.40.196.9/PLTV/88888888/224/3221225594/index.m3u8%23http://111.40.196.9/PLTV/88888888/224/3221225554/index.m3u8%23http://111.40.196.9/PLTV/88888888/224/3221225519/index.m3u8%23http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225745/index.m3u8%23http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls%23http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8%23http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225555/index.m3u8?fmt=ts2hls
+
 
 
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="纪实",金鹰纪实
@@ -82,12 +85,7 @@ http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000126&playtoken=ABCDEFGH&auth=no
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影",CHC高清电影
-http://iptv.tvfix.org/hls/chchd.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影",CHC家庭影院
-http://iptv.tvfix.org/hls/chctv.m3u8
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影",CHC动作电影
-http://iptv.tvfix.org/hls/chcatv.m3u8
+
 #EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="电影",美亚电影台(普通话)
 
 #EXTINF:-1 tvg-name="北京IPTV4k" tvg-logo="https://www.hualigs.cn/image/6153d999eb3a6.jpg" group-title="电影",北京IPTV4k
@@ -103,11 +101,19 @@ http://iptv.tvfix.org/hls/mydy2.m3u8
 http://121.51.249.99/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",HD电影2
 http://121.51.249.99/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",H湖南电影频道
+http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",天映经典(普通话)
 http://iptv.tvfix.org/hls/tyjd2.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="https://www.hualigs.cn/image/6153d999b6b49.jpg",黑莓电影
 http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影",CHC高清电影
+http://iptv.tvfix.org/hls/chchd.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影",CHC家庭影院
+http://iptv.tvfix.org/hls/chctv.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影",CHC动作电影
+http://iptv.tvfix.org/hls/chcatv.m3u8
 
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电影",卫视电影台
 http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
@@ -323,38 +329,7 @@ http://223.110.236.19/ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",未知4K 4M2160
 http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 
-#EXTINF:-1 tvg-id="6114" tvg-name="MTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mtvlivehd.png" group-title="音乐",MTV LIVE HD
-http://livetv2021.site:8080/9897876765/6576567/6646
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",HD音乐频道
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",otpaha
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",HONOE音乐
-http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",V2BEAT
-http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",Sexy K-Pop
-https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",Sexy K-Pop
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",DJT
-https://srv1.adriatelekom.com/DJTelevision/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",AdriaMusic
-https://srv1.adriatelekom.com/AdriaMusicTV/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",M2O音乐台
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",MTV Yo!
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",MTV Biggest Pop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",MTV Block Party
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",MTV Spankin\' New
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",MTV WMA
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",CMT Equal Play
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+fileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",斗鱼5
 http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
