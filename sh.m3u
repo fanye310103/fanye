@@ -96,11 +96,14 @@ http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index
 http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="电影",CCTV-6
 http://223.110.251.219:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",天映经典(普通话)
-http://iptv.tvfix.org/hls/tyjd2.m3u8
-#EXTINF:-1 group-title="电影" tvg-logo="https://www.hualigs.cn/image/6153d999b6b49.jpg",黑莓电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",Hot亚洲影院
+http://39.136.48.23:8089/PLTV/88888888/224/3221225844/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",Hot欧美影院
+http://39.136.48.23:8089/PLTV/88888888/224/3221226345/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",北京影视 HD
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",DOX映画HD
+http://117.12.94.10:4022/udp/225.1.1.238:5002
 http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影",CHC高清电影
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
@@ -108,6 +111,11 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影",CHC动作电影
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",天映经典(普通话)
+http://iptv.tvfix.org/hls/tyjd2.m3u8
+#EXTINF:-1 group-title="电影" tvg-logo="https://www.hualigs.cn/image/6153d999b6b49.jpg",黑莓电影
+
 
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电影",卫视电影台
 http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
@@ -128,14 +136,7 @@ http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="电影",FOX频道
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="" group-title="电影",凤凰卫视电影台
 http://v.mp.haue.edu.cn/hls/fhdy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="" group-title="电影",Hot亚洲影院
-http://39.136.48.23:8089/PLTV/88888888/224/3221225844/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="" group-title="电影",Hot欧美影院
-http://39.136.48.23:8089/PLTV/88888888/224/3221226345/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="" group-title="电影",北京影视 HD
-http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="" group-title="电影",DOX映画HD
-http://117.12.94.10:4022/udp/225.1.1.238:5002
+
 #EXTINF:-1 tvg-id="7206" tvg-name="CatchPlay电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png" group-title="电影",3.CATCHPLAY电影台-HD
 http://206.119.163.4/apitv/gtlive.php?id=14183&cid=14343
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",Thrill
@@ -331,8 +332,7 @@ http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",爱上4K
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",爱上4K
-http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4K修复 7M2160HEVC
@@ -341,8 +341,7 @@ http://223.110.236.19/ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228113/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",未知4K 4M2160
 http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",江苏4K
-http://39.134.71.75/ott.js.chinamobile.com/TVOD/3//224/3221227896/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",斗鱼5
 http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
