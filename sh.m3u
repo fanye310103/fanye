@@ -136,37 +136,8 @@ http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="电影",FOX频道
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="" group-title="电影",凤凰卫视电影台
 http://v.mp.haue.edu.cn/hls/fhdy.m3u8
-
-#EXTINF:-1 tvg-id="7206" tvg-name="CatchPlay电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png" group-title="电影",3.CATCHPLAY电影台-HD
-http://206.119.163.4/apitv/gtlive.php?id=14183&cid=14343
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",Thrill
 http://iptv.tvfix.org/hls/thrill.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",15.FUN精选电影院
-http://206.119.163.4/apitv/gtlive.php?id=12451&cid=12444
-#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="电影",46.amc 最爱电影-HD
-http://206.119.163.4/apitv/gtlive.php?id=14133&cid=14293
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",62.亚洲院线电影台
-http://206.119.163.4/apitv/gtlive.php?id=11426&cid=11426
-#EXTINF:-1 tvg-id="7185" tvg-name="影迷数位电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/影迷电影.png" group-title="电影",89.影迷数位电影台
-http://206.119.163.4/apitv/gtlive.php?id=13695&cid=13848
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",112.西洋强档电影台
-http://206.119.163.4/apitv/gtlive.php?id=11425&cid=11425
-#EXTINF:-1 tvg-id="7164" tvg-name="靖天电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天电影.png" group-title="电影",126.靖天电影台
-http://206.119.163.4/apitv/gtlive.php?id=14162&cid=14322
-
-
-#EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="台湾",纬来育乐
-http://211.23.114.106:8562/http/116.50.42.19:8081/hls/68/810/ch30.m3u8
-#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="台湾",纬来体育
-http://211.23.114.106:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",博斯运动I
-http://211.23.114.106:8564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",博斯运动II
-http://211.23.114.106:8565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",ELEVEN SPORTS 1
-http://211.23.114.106:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
-#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="台湾",ELEVEN SPORTS 2
-http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 
 #EXTINF:-1 tvg-id="100" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海",东方卫视
 http://223.110.251.219:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/1.m3u8
@@ -250,32 +221,17 @@ http://iptv.tvfix.org/hls/hkibc.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="特区",香港开电视
 http://iptv.tvfix.org/hls/opentv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特区",NHK综合
-http://iptv.tvfix.org/hls/nhkg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特区",NHK教育
-http://iptv.tvfix.org/hls/nhke.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特区",TVBS亚洲台
 http://iptv.tvfix.org/hls/tvbs.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="特区",TVBS新闻台
 http://iptv.tvfix.org/hls/tvbsnews.m3u8
-#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="特区",美亚电影台(粤语)
-http://iptv.tvfix.org/hls/mydy.m3u8
-#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="特区",美亚电影台(普通话)
-http://iptv.tvfix.org/hls/mydy2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特区",天映经典(粤语)
-http://iptv.tvfix.org/hls/tyjd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特区",天映经典(普通话)
-http://iptv.tvfix.org/hls/tyjd2.m3u8
+
 #EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="特区",Animax
 http://iptv.tvfix.org/hls/animax.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="特区",Animax(第2声道)
 http://iptv.tvfix.org/hls/animax2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特区",Hands Up Channel
 http://iptv.tvfix.org/hls/kid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特区",Thrill
-http://iptv.tvfix.org/hls/thrill.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特区",Thrill(第2声道)
-http://iptv.tvfix.org/hls/thrill2.m3u8
 #EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="特区",TVB经典台
 http://iptv.tvfix.org/hls/tvbjd.m3u8
 
@@ -302,19 +258,17 @@ http://iptv.tvfix.org/hls/discovery.m3u8
 http://iptv.tvfix.org/hls/animal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特区",Love Nature
 http://iptv.tvfix.org/hls/lovenature4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特区",Love Nature
-http://iptv.tvfix.org/hls/lovenature4k2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="境外",Bloomberg TV+ 4K
-https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="特区",有线新闻台
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="7122" tvg-name="有线财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="特区",有线财经台
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="境外",5.CNBC
 http://206.119.163.4/apitv/gtlive.php?id=13693&cid=13846
+
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="境外",7.CNN国际新闻台
 http://encodercdn1.frontline.ca/encoder184/output/CNN_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="境外",Bloomberg TV+ 4K
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="10023" tvg-name="北京IPTV4k" tvg-logo="https://www.hualigs.cn/image/6153d999eb3a6.jpg" group-title="4K",北京IPTV4k
 http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
@@ -341,6 +295,24 @@ http://223.110.236.19/ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228113/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",未知4K 4M2160
 http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="高清电影",高清电影1
+http://117.148.179.160/PLTV/88888888/224/3221231652/index.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="高清电影",高清电影2
+http://117.148.179.160/PLTV/88888888/224/3221231679/index.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="高清电影",高清电影3
+http://117.148.179.160/PLTV/88888888/224/3221231687/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="高清电影",高清电影4
+http://117.148.179.160/PLTV/88888888/224/3221231688/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="高清电影",高清电影5
+http://117.148.179.160/PLTV/88888888/224/3221231699/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="高清电影",高清电影6
+http://117.148.179.160/PLTV/88888888/224/3221231709/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="高清电影",高清电影7
+http://117.148.179.160/PLTV/88888888/224/3221231742/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="高清电影",高清电影8
+http://117.148.179.160/PLTV/88888888/224/3221231787/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",斗鱼5
