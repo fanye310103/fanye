@@ -283,24 +283,7 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",The First (1080p)
 https://thefirst-distroscale.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",News Beaumont TX (KBMT) (
-https://livevideo01.12newsnow.com/hls/live/2017379/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="境外",ABC 5 Cleveland OH (WEWS-
-https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
-#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="境外",ABC 24 Memphis TN (WATN-T
-https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",CBS 2 Greensboro NC (WFMY
-https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",CBS 9 Washington DC (WUSA
-https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",CBS 10 Columbus OH (WBNS-
-https://livevideo01.10tv.com/hls/live/2013836/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",CBS 19 Tyler TX (KYTX) (1
-https://livevideo01.cbs19.tv/hls/live/2017377/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",CBS THV11 Little Rock AR 
-https://livevideo01.thv11.com/hls/live/2017154/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",NHKWorld 华语世界 HD
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="100222" tvg-name="北京IPTV4k" tvg-logo="https://www.hualigs.cn/image/6153d999eb3a6.jpg" group-title="4K",北京IPTV4k
 http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
