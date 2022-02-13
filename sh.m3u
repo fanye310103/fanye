@@ -422,16 +422,7 @@ http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕影院",MIGU每日荐影
 http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",私人影院
-http://27.47.68.130:808/hls/57/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",东森电影
-http://27.47.68.130:808/hls/58/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",东森洋片 
-http://27.47.68.130:808/hls/59/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",国产电影
-http://27.47.68.130:808/hls/61/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",天映经典
-http://27.47.68.130:808/hls/62/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",直播剧场影音1台HD
 http://117.148.179.139/PLTV/88888888/224/3221231640/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",直播剧场影音2台HD
