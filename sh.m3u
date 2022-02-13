@@ -104,7 +104,7 @@ http://39.136.48.23:8089/PLTV/88888888/224/3221226345/index.m3u8
 http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",DOX映画HD
 http://117.12.94.10:4022/udp/225.1.1.238:5002
-http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影",CHC高清电影
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影",CHC家庭影院
@@ -181,9 +181,6 @@ http://117.12.94.10:4022/udp/225.1.1.236:5002
 http://117.12.94.10:4022/udp/225.1.1.237:5002
 #EXTINF:-1 tvg-id="1987" tvg-name="七彩戏剧" tvg-logo="" group-title="上海",七彩戏剧
 http://117.12.94.10:4022/udp/225.1.1.86:5002
-
-
-
 
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台(第1声道繁体)
