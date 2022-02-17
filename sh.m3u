@@ -173,8 +173,7 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育
 http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1987" tvg-name="金色频道HD" tvg-logo="" group-title="上海",金色频道HD
-http://117.12.94.10:4022/udp/225.1.1.236:5002
+
 #EXTINF:-1 tvg-id="1987" tvg-name="法制频道HD" tvg-logo="" group-title="上海",法治天地HD
 http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="七彩戏剧" tvg-logo="" group-title="上海",七彩戏剧
@@ -256,10 +255,7 @@ http://iptv.tvfix.org/hls/lovenature4k.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="特区",有线新闻台
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="7122" tvg-name="有线财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="特区",有线财经台
-https://api.leonardpark.dev/live/icable/108
 
-#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="境外",CNBC
-http://59.125.101.187:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
 
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="境外",France 24 Channel 0
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
