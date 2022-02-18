@@ -4,34 +4,30 @@
 http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中国",CCTV-2
 http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
-
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中国",CCTV-3
-http://223.110.251.219:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
-
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中国",CCTV-4
-http://223.110.251.219:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中国",CCTV-5
-http://223.110.251.219:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中国",CCTV-5+
-http://223.110.251.219:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中国",CCTV-6
-http://223.110.251.219:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="中国",CCTV-7
-http://223.110.251.219:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="中国",CCTV-8
-http://223.110.251.219:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="中国",CCTV-9
 http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="中国",CCTV-10
-http://223.110.251.219:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/.m3u8
+ttp://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="中国",CCTV-11
-http://223.110.251.219:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="中国",CCTV-12
 http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中国",CCTV-13
-http://223.110.251.219:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="中国",CCTV-14
 http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中国",CCTV-15
