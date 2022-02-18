@@ -308,7 +308,7 @@ http://223.110.236.19/ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8
 https://aplay.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1 group-title="8K",冬奥记实8k
 http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
-#EXTINF:-1 tvg-id="央视4超K高清" tvg-name="央视4K超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="8K,央视OK高清
+#EXTINF:-1 tvg-id="央视4超K高清" tvg-name="央视4K超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="8K,央视8K高清
 http://ye23.win/iptv/4k.cctv.php
 
 
