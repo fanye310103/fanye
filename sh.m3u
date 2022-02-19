@@ -239,8 +239,10 @@ http://iptv.tvfix.org/hls/tvbkf.m3u8
 http://iptv.tvfix.org/hls/tvbkf2.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="特区",凤凰资讯
 http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="特区",凤凰中文
 http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="特区",凤凰香港
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 
@@ -292,11 +294,13 @@ http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4K修复
 http://223.110.235.21:80/wh7f454c46tw2065242376_643205074/ott.js.chinamobile.com/TVOD/3/224/3221228141/index.m3u8
 
+
 #EXTINF:-1 tvg-id="" tvg-name="纯享4k" tvg-logo="" group-title="4K",纯享4K 21M2160HDR
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4KCESHI
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
+
 #EXTINF:-1 tvg-id="701" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="4K",FashionTV
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",爱上4K
@@ -304,15 +308,14 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4K修复 7M2160HEVC
 http://223.110.236.19/ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方",广东珠江4K
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",南国都市4K
-https://aplay.gztv.com/sec/shenghuos.m3u8
+
+
 #EXTINF:-1 group-title="8K",冬奥记实8k
 http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
-#EXTINF:-1 tvg-id="央视4超K高清" tvg-name="央视4K超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="8K,央视8K高清
+#EXTINF:-1 tvg-id="央视4超K高清" tvg-name="央视4K超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="8K",央视8K高清
 http://ye23.win/iptv/4k.cctv.php
 
 
