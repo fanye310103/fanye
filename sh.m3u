@@ -66,8 +66,8 @@ http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesst
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000576&playtoken=ABCDEFGH&auth=no
 
 
-
-
+#EXTINF:-1 tvg-id="111111" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
 #EXTINF:-1 tvg-id="100" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://c3drm.cdn.hunancatv.com:80/live/HuNanWeiShi.m3u8?token=dceddadfe6b764329e38f4b95002e54d&auth_key=1638430969-f93f0f4984bc4650ba01ed4f4783eb2d-00DB55E074BD-7f7c1e7e4a10554f6e500904b49e74fe#http://c3drm.cdn.hunancatv.com:80/live/HuNanWeiShi.m3u8?token=dceddadfe6b764329e38f4b95002e54d&auth_key=1638431014-948b17c23a4648f6b66ef57a790b533f-00DB55E074BD-fd3ce714e9403342f8df42e13acbdaee%23http://111.63.77.77:80/gitv_live/G_HUNAN-MD/G_HUNAN-MD.m3u8%23http://117.148.179.172:80/PLTV/88888888/224/3221231729/index.m3u8%23http://180.97.123.180/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel25/index.m3u8%23http://103.45.180.232:80/gudou5.php?id=hunanHD_7000%23http://111.40.196.9/PLTV/88888888/224/3221225521/index.m3u8%23http://111.40.196.9/PLTV/88888888/224/3221225594/index.m3u8%23http://111.40.196.9/PLTV/88888888/224/3221225554/index.m3u8%23http://111.40.196.9/PLTV/88888888/224/3221225519/index.m3u8%23http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225745/index.m3u8%23http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls%23http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8%23http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225555/index.m3u8?fmt=ts2hls
 
@@ -97,7 +97,7 @@ http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index
 #EXTINF:-1 tvg-name="北京IPTV淘剧场" tvg-logo="https://www.hualigs.cn/image/6153d99a454ef.jpg" group-title="电影",北京IPTV淘剧场
 http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="电影",CCTV-6
-http://223.110.251.219:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/.m3u8
+http://111.12.101.23:6610/PLTV/77777777/224/3221225683/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",Hot亚洲影院
 http://39.136.48.23:8089/PLTV/88888888/224/3221225844/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",Hot欧美影院
