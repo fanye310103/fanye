@@ -257,13 +257,13 @@ https://api.leonardpark.dev/live/icable/109
 https://api.leonardpark.dev/live/icable/108
 
 
-#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="境外",CNBC
-http://s1.mysportz.tv:2082/CNBC/playlist.m3u8
+#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="境外",NBC
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="境外",France 24 Channel 0
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNN.png" group-title="境外",CNN-HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="境外",CNN-HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="境外",DW English (1080p)
@@ -282,15 +282,12 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",The First (1080p)
 https://thefirst-distroscale.amagi.tv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",,Newmax(美国)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",Newmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8#https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/master.m3u8#https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",NBCnews(美国)
-http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",VOA-HD（美国）
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",VOA-HD
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_1080_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",CNN-HD（美国）
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="境外",NHKworld华语-HD
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="100222" tvg-name="北京IPTV4k" tvg-logo="https://www.hualigs.cn/image/6153d999eb3a6.jpg" group-title="4K",北京IPTV4k
