@@ -35,7 +35,7 @@ http://iptv.tvfix.org/hls/cctv15hd.m3u8
 
 
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中国",CCTV-16高清
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+http://iptv.tvfix.org/hls/cctv4k.m3u8
 
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中国",CCTV-16 4K
 http://iptv.tvfix.org/hls/cctv4k.m3u8
