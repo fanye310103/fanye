@@ -84,8 +84,8 @@ http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qiusuo.png" group-title="纪实",求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="6601" tvg-name="DOXTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOXTV.png" group-title="纪实",DOXTV
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000126&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 tvg-id="6601" tvg-name="国家地理" tvg-logo="http://http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="纪实",国家地理 台湾
+http://61.222.202.191/live/yzyh.php?id=120
 
 
 
@@ -113,9 +113,8 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影",CHC动作电影
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",天映经典(普通话)
-http://iptv.tvfix.org/hls/tyjd2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",东森电影HD
+http://61.222.202.191/live/yzyh.php?id=98
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",Y+电影
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 
@@ -123,22 +122,24 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电影",卫视电影台
 http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
 #EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="电影",好莱坞电影
-http://59.125.101.187:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
+
+http://61.222.202.191/live/yzyh.php?id=94
 #EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="电影",纬来电影台
 http://211.23.114.106:8555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
 #EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="电影",龙华电影台
-http://211.23.114.106:8556/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
+http://61.222.202.191/live/yzyh.php?id=91
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="电影",HBO HD
 http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
-#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="电影",HBO HD
-http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403#http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOfamily.png" group-title="电影",HBO family
+http://61.222.202.191/live/yzyh.php?id=93
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",AXN电影
-http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
+http://61.222.202.191/live/yzyh.php?id=96
 #EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="电影",Cinemax
-http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
+http://61.222.202.191/live/yzyh.php?id=95
 #EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电影",卫视电影台-2
 http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="电影",FOX频道
+
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="" group-title="电影",凤凰卫视电影台
 http://v.mp.haue.edu.cn/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",Thrill
@@ -245,12 +246,10 @@ http://iptv.tvfix.org/hls/tvbkf2.m3u8
 
 #EXTINF:-1 tvg-id="1909" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="特区",凤凰资讯
 http://iptv.tvfix.org/hls/fhzx.m3u8
-#EXTINF:-1 tvg-id="1909" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="特区",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="特区",凤凰中文
 http://iptv.tvfix.org/hls/fhzw.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="特区",凤凰中文
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="特区",凤凰香港
 http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="特区",Discovery
@@ -272,7 +271,7 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="境外",CNN-HD
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+http://61.222.202.191/live/yzyh.php?id=155
 
 #EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="境外",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
