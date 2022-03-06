@@ -38,7 +38,7 @@ http://iptv.tvfix.org/hls/cctv15hd.m3u8
 http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226283/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中国",CCTV-16 4K
-http://iptv.tvfix.org/hls/cctv4k.m3u8
+http://117.148.179.148:80/PLTV/88888888/224/3221233350/1.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="中国",北京纪实 
 http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中国",CCTV-17农村
@@ -77,15 +77,14 @@ http://c3drm.cdn.hunancatv.com:80/live/HuNanWeiShi.m3u8?token=dceddadfe6b764329e
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="纪实",金鹰纪实
 http://124.232.231.246:6610/000000001001/201600020008/index.m3u8?A
 #EXTINF:-1 tvg-id="" tvg-name="求索纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qiusuo.png" group-title="纪实",求索纪录
-http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/42330389.smil/index.m3u8?fmt=ts2hls?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qiusuo.png" group-title="纪实",求索科学
-http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qiusuo.png" group-title="纪实",求索生活
-http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-id="" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qiusuo.png" group-title="纪实",求索动物
-http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="6601" tvg-name="国家地理" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NationalGeographic_taiwan.png" group-title="纪实",国家地理 台湾
-http://61.222.202.191/live/yzyh.php?id=120
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="6601" tvg-name="国家地理" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NationalGeographic_taiwan.png" group-title="纪实",国家地理
+http://iptv.tvfix.org/hls/natlgeo.m3u8
 
 
 
@@ -115,8 +114,6 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",东森电影HD
 http://61.222.202.191/live/yzyh.php?id=98
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",Y+电影
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 
 
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电影",卫视电影台
@@ -129,9 +126,14 @@ http://211.23.114.106:8555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
 #EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="电影",龙华电影台
 http://61.222.202.191/live/yzyh.php?id=91
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="电影",HBO HD
-http://61.222.202.191/live/yzyh.php?id=91
+http://iptv.tvfix.org/hls/hbo2.m3u8
+#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.pngg" group-title="电影",HBO Hits
+http://iptv.tvfix.org/hls/hbohits2.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="电影",HBO family
-http://61.222.202.191/live/yzyh.php?id=93
+http://iptv.tvfix.org/hls/hbofamily2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="电影",HBO Signature
+http://iptv.tvfix.org/hls/hbosignature2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",AXN电影
 http://61.222.202.191/live/yzyh.php?id=96
 #EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="电影",Cinemax
@@ -273,6 +275,8 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="境外",CNN-HD
 http://61.222.202.191/live/yzyh.php?id=155
+#EXTINF:-1 group-title="境外" tvg-logo="https://s4.ax1x.com/2022/02/25/bETtJI.png",CNN HD
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
 #EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="境外",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
