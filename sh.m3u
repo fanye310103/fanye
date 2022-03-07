@@ -82,6 +82,8 @@ http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221
 http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-id="" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qiusuo.png" group-title="纪实",求索动物
 http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qiusuo.png" group-title="纪实",求索生活
+http://astream.apk1088.com:18888/channel.php?id=QSSHHD_7000
 #EXTINF:-1 tvg-id="6601" tvg-name="国家地理" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NationalGeographic_taiwan.png" group-title="纪实",国家地理
 http://iptv.tvfix.org/hls/natlgeo.m3u8
 
@@ -111,7 +113,7 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影",CHC动作电影
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",东森电影HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="电影",东森电影HD
 http://61.222.202.191/live/yzyh.php?id=98
 
 
