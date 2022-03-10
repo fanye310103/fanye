@@ -75,7 +75,7 @@ http://c3drm.cdn.hunancatv.com:80/live/HuNanWeiShi.m3u8?token=dceddadfe6b764329e
 
 纪实
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="纪实",金鹰纪实
-http://124.232.233.16:6610/000000001001/201500000238/index.m3u8?m3u8_level=2&ispcode=3
+http://124.232.233.16:6610/000000001001/201500000240/index.m3u8?m3u8_level=2&ispcode=3
 #EXTINF:-1 tvg-id="" tvg-name="求索纪录" tvg-logo="https://s4.ax1x.com/2022/02/22/bSzEyF.png" group-title="纪实",求索纪录
 http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/42330389.smil/index.m3u8?fmt=ts2hls?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="纪实",求索科学
