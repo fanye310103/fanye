@@ -113,7 +113,7 @@ http://39.136.48.23:8089/PLTV/88888888/224/3221225844/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",Hot欧美影院
 http://39.136.48.23:8089/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="电影",HBO HD
-http://iptv.tvfix.org/hls/hbo.m3u8
+http://iptv.tvfix.org/hls/hbo2.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="电影",HBO Hits
 http://iptv.tvfix.org/hls/hbohits2.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="电影",HBO family
