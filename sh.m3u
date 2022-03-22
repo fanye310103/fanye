@@ -182,16 +182,15 @@ http://84.22.33.214:80/nbatv/index.m3u8
 http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台(第2声道简体)
 http://iptv.tvfix.org/hls/jade2.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台海外版(粤语繁体)
-http://iptv.tvfix.org/hls/jadenhk.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台海外版(普通话简体)
-http://iptv.tvfix.org/hls/jadenhk2.m3u8
+#EXTINF:-1 tvg-id="NowNews.hk" tvg-name="NowNews.hk" tvg-logo="https://s1.ax1x.com/2022/03/16/bzbtBD.png" group-title="特区",now新闻台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="特区",J2
 http://iptv.tvfix.org/hls/j2.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="特区",J2(第2声道)
 http://iptv.tvfix.org/hls/j22.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="特区",无线新闻台
-http://iptv.tvfix.org/hls/inews.m3u8
+http://ye23.win/iptv/tvb.php?id=1
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="特区",明珠台
 http://iptv.tvfix.org/hls/pearl.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="特区",明珠台(第2声道)
