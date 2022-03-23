@@ -124,7 +124,7 @@ http://iptv.tvfix.org/hls/hbosignature2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",AXN电影
 http://61.222.202.191/live/yzyh.php?id=96
 #EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="电影",Cinemax
-http://61.222.202.191/live/yzyh.php?id=95
+CINEMAX,http://50.7.218.42:8278/cinemax_twn/playlist.m3u8?tid=MEAE1417577214175772&ct=18392&tsum=5d6639abf9c0be1bdb8ded47c91e3af7
 #EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电影",卫视电影台 HD
 http://211.23.114.106:8653/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
 #EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电影",卫视电影台-2
