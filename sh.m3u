@@ -38,7 +38,7 @@ http://iptv.tvfix.org/hls/cctv15hd.m3u8
 http://39.135.55.7:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中国",CCTV 4K
-#http://ye23.win/iptv/4k.cctv.php
+http://39.135.55.7:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="中国",北京纪实 
 http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
@@ -50,22 +50,6 @@ http://iptv.tvfix.org/hls/cgtnhd.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="CGTN纪录高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtndochd.png" group-title="中国",CGTN纪录高清
 http://iptv.tvfix.org/hls/cgtndochd.m3u8
 
-#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="中国",第一剧场
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000569&playtoken=ABCDEFGH&auth=no
-#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="中国",央视台球
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000596&playtoken=ABCDEFGH&auth=no
-#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="中国",风云剧场
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000570&playtoken=ABCDEFGH&auth=no
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="中国",怀旧剧场
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000571&playtoken=ABCDEFGH&auth=no
-#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="中国",兵器科技
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000572&playtoken=ABCDEFGH&auth=no
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中国",文化精品
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000573&playtoken=ABCDEFGH&auth=no
-#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="中国",高尔夫网球
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000574&playtoken=ABCDEFGH&auth=no
-#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="中国",风云足球
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000576&playtoken=ABCDEFGH&auth=no
 
 卫视
 #EXTINF:-1 tvg-id="111111" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
@@ -142,7 +126,7 @@ http://iptv.tvfix.org/hls/thrill.m3u8
 
 上海
 #EXTINF:-1 tvg-id="100" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海",东方卫视
-http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
+http://39.135.138.59:18890/TVOD/88888910/224/3221225659/index.m3u8
 #EXTINF:-1 tvg-id="200" tvg-name="东方都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",东方都市频道
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海",上视新闻综合
