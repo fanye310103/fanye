@@ -133,8 +133,10 @@ http://50.7.218.42:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&
 #EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="电影",Cinemax
 http://50.7.218.42:8278/cinemax_twn/playlist.m3u8?tid=MEAE1417577214175772&ct=18392&tsum=5d6639abf9c0be1bdb8ded47c91e3af7
 
-#EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电影",卫视电影台 HD
+#EXTINF:-1 tvg-id="6087" tvg-name="卫视电影台HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电影",卫视电影台 HD
 http://59.125.101.187:8599/.m3u8
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电影",卫视电影台
+http://iptv.tvfix.org/hls/starmovies.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/mo0qbBf.jpg" group-title="电影",东森洋片台
 http://50.7.218.42:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
@@ -148,12 +150,14 @@ http://59.125.101.187:8619/playlist.m3u8
 http://50.7.218.42:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",Thrill
 http://iptv.tvfix.org/hls/thrill.m3u8
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="电影",tvN
+http://iptv.tvfix.org/hls/tvn.m3u8
 #EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="电影",美亚电影台(普通话)
 http://50.7.218.42:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 
 上海
 #EXTINF:-1 tvg-id="100" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海",东方卫视
-http://39.135.138.59:18890/TVOD/88888910/224/3221225659/index.m3u8
+http://111.20.33.93/TVOD/88888893/224/3221226217/index.m3u8
 #EXTINF:-1 tvg-id="200" tvg-name="东方都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",东方都市频道
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海",上视新闻综合
@@ -339,20 +343,6 @@ http://ye23.win/iptv/4k.cctv.php
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",斗鱼5
-http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",斗鱼6
-http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",斗鱼电影4
-http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",斗鱼16
-http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",斗鱼17
-http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",斗鱼18
-http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",斗鱼29
-http://dyscdnali1.douyucdn.cn/live/7537296rTdKDixQ0.flv?uuid=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕影院",MIGU古天乐影院
 http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
