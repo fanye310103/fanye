@@ -193,7 +193,8 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
 http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61c913564dd99.jpg" group-title="体育", NBA TV
 http://84.22.33.214:80/nbatv/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61c913564dd99.jpg" group-title="体育", ESPN
+https://d17f1mg1q6g54e.cloudfront.net/hls/espn/playlist.m3u8
 特区
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台(第1声道繁体)
 http://iptv.tvfix.org/hls/jade.m3u8
@@ -244,7 +245,7 @@ http://iptv.tvfix.org/hls/kid.m3u8
 http://iptv.tvfix.org/hls/tvbjd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特区",TVB为食台
-http://huanqiuzhibo.cn/manifest/xxoo.php?id=88
+http://huanqiuzhibo.cn/manifest/xxoo.php?id=123
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="特区",TVB星河(粤语)
 http://iptv.tvfix.org/hls/tvbxh.m3u8
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="特区",TVB星河(普通话)
