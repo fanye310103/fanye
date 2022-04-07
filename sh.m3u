@@ -265,7 +265,7 @@ http://iptv.tvfix.org/hls/fhzw.m3u8
 http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="特区",有线新闻台
-https://api.leonardpark.dev/live/icable/109
+http://huanqiuzhibo.cn/manifest/xxoo.php?id=73
 
 
 #EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="境外",NBC NEWS
