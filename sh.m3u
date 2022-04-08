@@ -197,13 +197,13 @@ http://84.22.33.214:80/nbatv/index.m3u8
 https://d17f1mg1q6g54e.cloudfront.net/hls/espn/playlist.m3u8
 特区
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台(第1声道繁体)
-http://iptv.tvfix.org/hls/jade.m3u8
+http://huanqiuzhibo.cn/manifest/xxoo.php?id=78
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台(第2声道简体)
 http://iptv.tvfix.org/hls/jade2.m3u8
 #EXTINF:-1 tvg-id="NowNews.hk" tvg-name="NowNews.hk" tvg-logo="https://s1.ax1x.com/2022/03/16/bzbtBD.png" group-title="特区",now新闻台
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="特区",J2
-http://iptv.tvfix.org/hls/j2.m3u8
+http://huanqiuzhibo.cn/manifest/xxoo.php?id=74
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="特区",J2(第2声道)
 http://iptv.tvfix.org/hls/j22.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="特区",无线新闻台
@@ -231,9 +231,9 @@ http://iptv.tvfix.org/hls/hkibc.m3u8
 http://iptv.tvfix.org/hls/opentv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特区",TVBS亚洲台
-http://iptv.tvfix.org/hls/tvbs.m3u8
+http://huanqiuzhibo.cn/manifest/xxoo.php?id=37
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="特区",TVBS新闻台
-http://iptv.tvfix.org/hls/tvbsnews.m3u8
+http://huanqiuzhibo.cn/manifest/xxoo.php?id=38
 
 #EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="特区",Animax
 http://iptv.tvfix.org/hls/animax.m3u8
@@ -245,9 +245,9 @@ http://iptv.tvfix.org/hls/kid.m3u8
 http://iptv.tvfix.org/hls/tvbjd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特区",TVB为食台
-http://huanqiuzhibo.cn/manifest/xxoo.php?id=100
+http://huanqiuzhibo.cn/manifest/xxoo.php?id=96
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="特区",TVB星河(粤语)
-http://iptv.tvfix.org/hls/tvbxh.m3u8
+,http://huanqiuzhibo.cn/manifest/xxoo.php?id=76
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="特区",TVB星河(普通话)
 http://iptv.tvfix.org/hls/tvbxh2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特区",TVB功夫台(粤语)
