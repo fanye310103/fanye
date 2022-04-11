@@ -120,6 +120,7 @@ http://iptv.tvfix.org/hls/hbo.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="电影", AMC
 http://50.7.218.42:8278/sundance_twn/playlist.m3u8?tid=mfe0bf4686c6d&ct=18335&tsum=14c57b1bfb62b277d396eb3cf14f26c6
 
+
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="电影",HBO Hits
 http://50.7.218.42:8278/hbohits_twn/playlist.m3u8?tid=MEAE4573157945731579&ct=18392&tsum=f86959d8d1d44b2eb9d30f62bdf2835f
 
@@ -214,7 +215,7 @@ http://huanqiuzhibo.cn/manifest/xxoo.php?id=73
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="特区",明珠台
 http://iptv.tvfix.org/hls/pearl.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="特区",明珠台(第2声道)
-http://iptv.tvfix.org/hls/pearl2.m3u8
+http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="特区",无线财经资讯台
 http://iptv.tvfix.org/hls/finance.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="特区",无线财经资讯台(第2声道)
@@ -257,7 +258,7 @@ http://iptv.tvfix.org/hls/tvbkf2.m3u8
 
 
 #EXTINF:-1 tvg-id="1909" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="特区",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="特区",凤凰中文
 http://iptv.tvfix.org/hls/fhzw.m3u8
