@@ -117,7 +117,7 @@ http://39.136.48.23:8089/PLTV/88888888/224/3221226345/index.m3u8
 
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="电影",HBO HD
 http://iptv.tvfix.org/hls/hbo.m3u8
-#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="电影",HBO HD
+#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="电影", AMC
 http://50.7.218.42:8278/sundance_twn/playlist.m3u8?tid=mfe0bf4686c6d&ct=18335&tsum=14c57b1bfb62b277d396eb3cf14f26c6
 
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="电影",HBO Hits
@@ -197,7 +197,7 @@ http://84.22.33.214:80/nbatv/index.m3u8
 https://d17f1mg1q6g54e.cloudfront.net/hls/espn/playlist.m3u8
 特区
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台(第1声道繁体)
-http://huanqiuzhibo.cn/manifest/xxoo.php?id=78
+http://50.7.218.42:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台(第2声道简体)
 http://iptv.tvfix.org/hls/jade2.m3u8
 #EXTINF:-1 tvg-id="NowNews.hk" tvg-name="NowNews.hk" tvg-logo="https://s1.ax1x.com/2022/03/16/bzbtBD.png" group-title="特区",now新闻台
@@ -257,7 +257,7 @@ http://iptv.tvfix.org/hls/tvbkf2.m3u8
 
 
 #EXTINF:-1 tvg-id="1909" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="特区",凤凰资讯
-http://39.135.55.7:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="特区",凤凰中文
 http://iptv.tvfix.org/hls/fhzw.m3u8
