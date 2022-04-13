@@ -192,7 +192,7 @@ http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png" group-title="体育", bein sport
-http://195.154.200.168:8000/play/a01z/index.m3u8
+http://195.154.200.168:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png" group-title="体育", bein sport nba
 http://195.154.200.168:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png" group-title="体育", bein sport  premuiu 1
