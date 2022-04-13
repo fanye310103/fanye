@@ -89,10 +89,6 @@ http://50.7.218.42:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&
 http://50.7.218.42:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
 
 
-
-
-
-
 电影
 
 #EXTINF:-1 tvg-name="北京IPTV4k" tvg-logo="https://www.hualigs.cn/image/6153d999eb3a6.jpg" group-title="电影",北京IPTV4k
@@ -192,10 +188,22 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育
 http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61c913564dd99.jpg" group-title="体育", NBA TV
-http://84.22.33.214:80/nbatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61c913564dd99.jpg" group-title="体育", ESPN
-https://d17f1mg1q6g54e.cloudfront.net/hls/espn/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png" group-title="体育", bein sport
+http://195.154.200.168:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png" group-title="体育", bein sport nba
+http://195.154.200.168:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png" group-title="体育", bein sport  premuiu 1
+http://195.154.200.168:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png" group-title="体育", bein sport  premuiu 2
+http://195.154.200.168:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png" group-title="体育", bein sport  premuiu 3
+http://195.154.200.168:8000/play/a01u/index.m3u8
+
+
+
 特区
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台(第1声道繁体)
 http://50.7.218.42:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
