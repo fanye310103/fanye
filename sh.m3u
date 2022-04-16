@@ -126,6 +126,7 @@ http://50.7.218.42:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="电影",HBO Signature
 http://50.7.218.42:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 
+
 #EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="电影",Cinemax
 http://50.7.218.42:8278/cinemax_twn/playlist.m3u8?tid=MEAE1417577214175772&ct=18392&tsum=5d6639abf9c0be1bdb8ded47c91e3af7
 
