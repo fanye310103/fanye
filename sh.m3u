@@ -68,6 +68,8 @@ http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000002000010046&livem
 http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-id="6601" tvg-name="国家地理" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NationalGeographic_taiwan.png" group-title="纪实",国家地理
 http://50.7.218.42:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
+#EXTINF:-1 tvg-id="6601" tvg-name="国家地理" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NationalGeographic_taiwan.png" group-title="纪实",国家地理
+http://61.221.81.93:8590/hls/61/803/ch01.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="纪实",Discovery
 http://iptv.tvfix.org/hls/discovery.m3u8
 #EXTINF:-1 group-title="纪实" tvg-logo="https://i.imgur.com/uWLe4m2.jpg",国家地理频道
@@ -77,7 +79,7 @@ https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="纪实",动物星球
-http://iptv.tvfix.org/hls/animal.m3u8
+http://61.221.81.93:8088/hls/70/812/ch37.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="纪实",探索频道
 http://50.7.218.42:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DMAX.png" group-title="纪实",探索动力
@@ -135,8 +137,9 @@ http://59.125.101.187:8759/http/192.168.77.24:8081/hls/71/813/ch43.m3u8
 
 #EXTINF:-1 tvg-id="6087" tvg-name="卫视电影台HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电影",卫视电影台 HD
 http://50.7.218.42:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电影",卫视电影台
-http://iptv.tvfix.org/hls/starmovies.m3u8
+http://61.221.81.93:8507/hls/62/804/ch07.m3u8
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电影",statr movie gold
 http://59.125.101.187:8745/http/192.168.77.24:8081/hls/62/804/ch08.m3u8
 
@@ -274,7 +277,7 @@ http://iptv.tvfix.org/hls/tvbkf2.m3u8
 http://39.135.55.7:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="特区",凤凰中文
-http://59.44.10.116:9901/tsfile/live/1022_1.m3u8
+http://61.221.81.93:8514/hls/76/818/ch63.m3u8
 
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="特区",凤凰香港
 http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
