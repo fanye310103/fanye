@@ -130,6 +130,8 @@ http://39.136.48.23:8089/PLTV/88888888/224/3221226345/index.m3u8
 
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="电影",HBO HD
 http://59.125.101.187:8757/http/192.168.77.24:8081/hls/71/813/ch41.m3u8
+#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="电影",HBO HD
+http://61.221.81.93:8088/hls/71/813/ch41.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="电影", AMC
 http://50.7.218.42:8278/sundance_twn/playlist.m3u8?tid=mfe0bf4686c6d&ct=18335&tsum=14c57b1bfb62b277d396eb3cf14f26c6
 
