@@ -3,35 +3,35 @@
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国",CCTV-1综合
 http://112.25.47.24/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中国",CCTV-2财经
-http://39.135.138.59:18890/TVOD/88888910/224/3221225643/index.m3u8
+http://112.25.47.24/gitv_live/G_CCTV-2-HD-265-8M/G_CCTV-2-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中国",CCTV-3综艺
-http://39.135.138.59:18890/TVOD/88888910/224/3221225634/index.m3u8
+http://112.25.47.24/gitv_live/G_CCTV-3-HD-265-8M/G_CCTV-3-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中国",CCTV-4国际
-http://39.135.138.59:18890/TVOD/88888910/224/3221225621/index.m3u8
+http://112.25.47.24/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中国",CCTV-5体育
-http://39.135.138.59:18890/TVOD/88888910/224/3221225633/index.m3u8
+http://112.25.47.24/gitv_live/G_CCTV-5-HD-265-8M/G_CCTV-5-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中国",CCTV-5+体育
-http://39.135.138.59:18890/TVOD/88888910/224/3221225706/index.m3u8
+http://112.25.47.24/gitv_live/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中国",CCTV-6电影
 http://112.25.47.24/gitv_live/G_CCTV-6-HD-265-8M/G_CCTV-6-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="中国",CCTV-7国防军事
-http://39.135.138.59:18890/TVOD/88888910/224/3221225644/index.m3u8
+http://112.25.47.24/gitv_live/G_CCTV-7-HQ/G_CCTV-7-HQ.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="中国",CCTV-8电视剧
-http://39.135.138.59:18890/TVOD/88888910/224/3221225631/index.m3u8
+http://112.25.47.24/gitv_live/G_CCTV-8-HD-265-8M/G_CCTV-8-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="中国",CCTV-9记录
-http://39.135.138.59:18890/TVOD/88888910/224/3221225646/index.m3u8
+http://112.25.47.24/gitv_live/G_CCTV-9-HD-265-5M/G_CCTV-9-HD-265-5M.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="中国",CCTV-10科教
-http://39.135.138.59:18890/TVOD/88888910/224/3221225636/index.m3u8
+http://112.25.47.24/gitv_live/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="中国",CCTV-11戏曲
-http://39.135.138.58:18890/PLTV/88888910/224/3221225628/index.m3u8
+http://112.25.47.24/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="中国",CCTV-12社会与法
-http://39.135.138.59:18890/TVOD/88888910/224/3221225637/index.m3u8
+http://112.25.47.24/gitv_live/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中国",CCTV-13新闻
-http://iptv.tvfix.org/hls/cctv13hd.m3u8
+http://112.25.47.24/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="中国",CCTV-14少儿频道
-http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
+http://112.25.47.24/gitv_live/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中国",CCTV-15音乐
-http://iptv.tvfix.org/hls/cctv15hd.m3u8
+http://112.25.47.24/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
 
 
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中国",CCTV-16 4K
@@ -43,7 +43,7 @@ http://39.135.55.7:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IA
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="中国",北京纪实 
 http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中国",CCTV-17农村
-http://iptv.tvfix.org/hls/cctv17hd.m3u8
+http://112.25.47.24/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
 
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://n.ysyz.top:99/buyaolian/cctvdiyijuchang.png" group-title="中国",第一剧场
 http://112.25.47.24/gitv_live/GITV-JS-2/GITV-JS-2.m3u8
@@ -186,7 +186,7 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",上视生活时尚
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/shsshd/4000000/mnf.m3u8
+http://112.25.47.24/gitv_live/G_SHENGHUOSS/G_SHENGHUOSS.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视频道
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经
@@ -194,7 +194,7 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
+http://112.25.47.24/gitv_live/G_QUANJISHI/G_QUANJISHI.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海",上视外语ICS频道
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8
 
