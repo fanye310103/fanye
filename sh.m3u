@@ -129,7 +129,7 @@ http://39.136.48.23:8089/PLTV/88888888/224/3221225844/index.m3u8
 http://39.136.48.23:8089/PLTV/88888888/224/3221226345/index.m3u8
 
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="电影",HBO HD
-http://220.134.196.147:8945/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+http://220.134.196.147:8957/http/116.50.42.18:8081/hls/71/813/ch41.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="电影",HBO HD
 http://61.221.81.93:8088/hls/71/813/ch41.m3u8
@@ -158,8 +158,7 @@ http://50.7.218.42:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=
 
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电影",卫视电影台
 http://61.221.81.93:8507/hls/62/804/ch07.m3u8
-#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电影",statr movie gold
-http://59.125.101.187:8745/http/192.168.77.24:8081/hls/62/804/ch08.m3u8
+
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电影", STAR MOVIE GOLD
 http://220.134.196.147:8945/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 
