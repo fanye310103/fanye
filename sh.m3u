@@ -218,6 +218,12 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
 http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgKGR0.png" group-title="体育",ESPN
+https://d1k4ybyeycgihx.cloudfront.net/hls/espn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/19/qAojiT.png" group-title="体育",ESPN 2
+https://d1k4ybyeycgihx.cloudfront.net/hls/espn2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070feccd0b5.jpg" group-title="体育",TNT
+https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png" group-title="体育", bein sport
 http://195.154.200.168:8000/play/a01v/index.m3u8
