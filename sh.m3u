@@ -391,10 +391,6 @@ http://ye23.win/iptv/4k.cctv.php
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",直播剧场影音1台HD
 http://117.148.179.139/PLTV/88888888/224/3221231640/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",直播剧场影音2台HD
@@ -405,3 +401,11 @@ http://117.148.179.139/PLTV/88888888/224/3221231645/index.m3u8
 http://117.148.179.139/PLTV/88888888/224/3221231652/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",直播剧场影音5台HD
 http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",百视通电影1
+http://39.135.55.105:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",百视通电影2
+http://39.135.55.105:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",百视通电影3
+http://39.135.55.105:6610/PLTV/88888888/224/3221227130/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",百视通电影4
+http://39.135.55.105:6610/PLTV/88888888/224/3221227037/index.m3u8?servicetype=1
