@@ -225,6 +225,28 @@ https://d1k4ybyeycgihx.cloudfront.net/hls/espn2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070feccd0b5.jpg" group-title="体育",TNT
 https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/bestv.jpg" group-title="体育",百事通体育1
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba1/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/bestv.jpg" group-title="体育",百事通体育2
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba2/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/bestv.jpg" group-title="体育",百事通体育3
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba3/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/bestv.jpg" group-title="体育",百事通体育4
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba4/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/bestv.jpg" group-title="体育",百事通体育5
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/bestv.jpg" group-title="体育",百事通体育6
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba6/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/bestv.jpg" group-title="体育",百事通体育7
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba7/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="体育", 博斯运动I
+http://220.134.196.147:8964/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育",ELEVEN体育一台
+http://220.134.196.147:8966/http/59.120.8.187:8078/hls/25/80/esport.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="体育",ELEVEN体育二台
+http://220.134.196.147:8967/http/59.120.8.187:8078/hls/26/80/esport2.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育",纬来体育
+http://220.134.196.147:8963/http/59.120.8.187:8081/hls/67/809/ch28.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 #EXTINF:-1 tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png" group-title="体育", bein sport
 http://195.154.200.168:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png" group-title="体育", bein sport nba
@@ -235,8 +257,7 @@ http://195.154.200.168:8000/play/a01s/index.m3u8
 http://195.154.200.168:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png" group-title="体育", bein sport  premuiu 3
 http://195.154.200.168:8000/play/a01u/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="体育", 博斯运动II
-http://59.125.101.187:8768/http/192.168.77.24:8081/hls/61/803/ch04.m3u8
+
 
 特区
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台(第1声道繁体)
