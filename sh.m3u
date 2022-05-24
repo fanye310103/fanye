@@ -45,12 +45,12 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中国",CCTV-17农村
 http://39.135.49.209:6610/PLTV/88888888/224/3221226986/1.m3u8?servicetype=1
 
+#EXTINF:-1 tvg-id="6558" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="中国",风云剧场
+http://117.148.179.162/TVOD/88888888/224/3221231604/index.m3u8
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://n.ysyz.top:99/buyaolian/cctvdiyijuchang.png" group-title="中国",第一剧场
-http://112.25.47.24/gitv_live/GITV-JS-2/GITV-JS-2.m3u8
-#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://n.ysyz.top:99/buyaolian/cctvdiyijuchang.png" group-title="中国",第一剧场
-https://tvfix.woodong.workers.dev/hls/cctvdyjchd.m3u8
+http://117.148.179.172/TVOD/88888888/224/3221231540/index.m3u8
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="中国",怀旧剧场
-https://tvfix.woodong.workers.dev/hls/cctvhjjchd.m3u8
+http://117.148.179.158/TVOD/88888888/224/3221231544/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="中国",影视剧场
 http://112.25.47.24/gitv_live/GITV-JS-1/GITV-JS-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="中国",影视剧场
@@ -118,9 +118,9 @@ http://112.25.47.24/gitv_live/G_CCTV-6-HD-265-8M/G_CCTV-6-HD-265-8M.m3u8?p=GITV&
 #EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影",CHC高清电影
 https://tvfix.woodong.workers.dev/hls/chchd.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影",CHC家庭影院
-https://tvfix.woodong.workers.dev/hls/chctv.m3u8
+http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影",CHC动作电影
-https://tvfix.woodong.workers.dev/hls/chcatv.m3u8
+http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",Hot欧美影院
 http://39.136.48.23:8089/PLTV/88888888/224/3221226345/index.m3u8
@@ -246,16 +246,7 @@ http://220.134.196.147:8966/http/59.120.8.187:8078/hls/25/80/esport.m3u8?token=7
 http://220.134.196.147:8967/http/59.120.8.187:8078/hls/26/80/esport2.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育",纬来体育
 http://220.134.196.147:8963/http/59.120.8.187:8081/hls/67/809/ch28.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
-#EXTINF:-1 tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png" group-title="体育", bein sport
-http://195.154.200.168:8000/play/a01v/index.m3u8
-#EXTINF:-1 tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png" group-title="体育", bein sport nba
-http://195.154.200.168:8000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png" group-title="体育", bein sport  premuiu 1
-http://195.154.200.168:8000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png" group-title="体育", bein sport  premuiu 2
-http://195.154.200.168:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png" group-title="体育", bein sport  premuiu 3
-http://195.154.200.168:8000/play/a01u/index.m3u8
+
 
 
 特区
@@ -330,7 +321,7 @@ http://live.tvfix.org/hls/fhzw.m3u8
 http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="特区",有线新闻台
-http://huanqiuzhibo.cn/manifest/xxoo.php?id=62
+https://api.leonardpark.dev/live/icable/109
 
 #EXTINF:-1 tvg-id=“7122” tvg-name="有线新闻台"  group-title="港澳台" tvg-logo="http://n.ysyz.top:99/buyaolian/Cable_News.png",有线新闻台
 http://liuxw.usa7.20212021.ga/ns.php?id=78
