@@ -9,7 +9,7 @@ http://39.135.49.209:6610/PLTV/88888888/224/3221227055/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中国",CCTV-4国际
 http://39.135.49.209:6610/PLTV/88888888/224/3221226968/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中国",CCTV-5体育
-http://39.135.49.209:6610/PLTV/88888888/224/3221226968/1.m3u8?servicetype=1
+http://39.135.49.209:6610/PLTV/88888888/224/3221227170/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中国",CCTV-5+体育
 http://39.135.49.209:6610/PLTV/88888888/224/3221226919/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中国",CCTV-6电影
@@ -46,20 +46,21 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
 http://39.135.49.209:6610/PLTV/88888888/224/3221226986/1.m3u8?servicetype=1
 
 #EXTINF:-1 tvg-id="6558" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="中国",风云剧场
-http://117.148.179.162/TVOD/88888888/224/3221231604/index.m3u8
+https://tvfix.woodong.workers.dev/hls/cctvfyjchd.m3u8
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://n.ysyz.top:99/buyaolian/cctvdiyijuchang.png" group-title="中国",第一剧场
-http://117.148.179.172/TVOD/88888888/224/3221231540/index.m3u8
+https://tvfix.woodong.workers.dev/hls/cctvdyjchd.m3u8
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="中国",怀旧剧场
-http://117.148.179.158/TVOD/88888888/224/3221231544/index.m3u8
+https://tvfix.woodong.workers.dev/hls/cctvhjjchd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="中国",影视剧场
 http://112.25.47.24/gitv_live/GITV-JS-1/GITV-JS-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="中国",影视剧场
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="中国",世界地理
-http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+https://tvfix.woodong.workers.dev/hls/cctvsjdlhd.m3u8
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="中国",兵器知识
-http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
-
+https://tvfix.woodong.workers.dev/hls/cctvbqkjhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中国",CCTV央视文化精品高清
+https://tvfix.woodong.workers.dev/hls/cctvwhjphd.m3u8
 
 
 
